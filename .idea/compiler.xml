@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="asynchronous" target="1.5" />
+      <module name="asynchronous" target="1.8" />
       <module name="concurrent" target="1.5" />
     </bytecodeTargetLevel>
   </component>
