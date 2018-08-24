@@ -3,6 +3,8 @@ package com.company.LongIn32;
 /**
  * 32位JVM中，64位的Long读写不是原子
  *
+ * Test: for git star
+ *
  */
 public class LongIn32 {
     public static long test = 0;

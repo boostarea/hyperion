@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b14d1b0-e62f-4746-b772-de8e9b7f66ae" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/company/LockInterruptibly/LockInterruptibly.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/MultiThread/SimpleSynchronizedProblem.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/LongIn32/LongIn32.java" afterPath="$PROJECT_DIR$/src/main/java/com/company/LongIn32/LongIn32.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -113,11 +111,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LockInterruptibly.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LockInterruptibly.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/LockInterruptibly/LockInterruptibly.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="1020">
               <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongIn32.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/LongIn32/LongIn32.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -205,16 +213,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cas.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/CAS/Cas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DeadLock.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/deadLock/DeadLock.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -269,6 +267,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/MultiThread/HashMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/MultiThread/SimpleSynchronizedProblem.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/LockInterruptibly/LockInterruptibly.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/LongIn32/LongIn32.java" />
       </list>
     </option>
   </component>
@@ -360,6 +359,16 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="Join" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="asynchronous" type="b2602c69:ProjectViewProjectNode" />
+              <item name="concurrency-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="LongIn32" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="asynchronous" type="b2602c69:ProjectViewProjectNode" />
@@ -570,7 +579,7 @@
       <workItem from="1531724557164" duration="3022000" />
       <workItem from="1531799896369" duration="1138000" />
       <workItem from="1535006769179" duration="13080000" />
-      <workItem from="1535072797221" duration="5676000" />
+      <workItem from="1535072797221" duration="5883000" />
     </task>
     <task id="LOCAL-00001" summary="add currency">
       <created>1535072579322</created>
@@ -583,7 +592,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50523000" />
+    <option name="totallyTimeSpent" value="50730000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="867" width="1920" height="995" extended-state="6" />
@@ -631,16 +640,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Latch/TestHarness.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/safePoint/SafePoint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1346,8 +1345,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/LockInterruptibly/LockInterruptibly.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
+        <state relative-caret-position="1020">
           <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/LongIn32/LongIn32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding />
         </state>
       </provider>
