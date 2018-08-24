@@ -124,8 +124,8 @@
       <file leaf-file-name="LongIn32.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/LongIn32/LongIn32.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+            <state relative-caret-position="68">
+              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -579,7 +579,7 @@
       <workItem from="1531724557164" duration="3022000" />
       <workItem from="1531799896369" duration="1138000" />
       <workItem from="1535006769179" duration="13080000" />
-      <workItem from="1535072797221" duration="5883000" />
+      <workItem from="1535072797221" duration="6240000" />
     </task>
     <task id="LOCAL-00001" summary="add currency">
       <created>1535072579322</created>
@@ -592,7 +592,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50730000" />
+    <option name="totallyTimeSpent" value="51087000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="867" width="1920" height="995" extended-state="6" />
@@ -1353,8 +1353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/LongIn32/LongIn32.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="68">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
           <folding />
         </state>
       </provider>
