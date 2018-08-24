@@ -1,9 +1,7 @@
 package com.company.LockSupport;
 
 /**
- * @description:
- * @author: chenr
- * @date: 18-8-24
+ * LockSupport 在中断时，不抛出异常，默默吞下
  */
 public class LockSupportInterrupted {
     public static Object object = new Object();
