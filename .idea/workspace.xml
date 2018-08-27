@@ -1,7 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b14d1b0-e62f-4746-b772-de8e9b7f66ae" name="Default" comment="" />
+    <list default="true" id="2b14d1b0-e62f-4746-b772-de8e9b7f66ae" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/threadPool/ScheduleThreadPoolDemo.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Barrier/TaskConvergence.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/CAS/Cas.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/CompletionService/CompletionServiceTest.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Condition/ReenterLockCondition.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/FairLock/FairLock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Join/Join.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Latch/TestHarness.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/LockInterruptibly/LockInterruptibly.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/LockSupport/LockSupport$ChangeObjectThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/LockSupport/LockSupport.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/LockSupport/LockSupportInterrupted$ChangeObjectThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/LockSupport/LockSupportInterrupted.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/LongIn32/LongIn32$Modify.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/LongIn32/LongIn32$Read.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/LongIn32/LongIn32.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/MultiThread/ArrayList$AddThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/MultiThread/ArrayList.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/MultiThread/HashMap$AddThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/MultiThread/HashMap.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/MultiThread/SimpleSynchronizedProblem.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/NonBlocking/NonBlocking.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Reactor/Reactor$Acceptor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Reactor/Reactor$Handler.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Reactor/Reactor.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/ReadWriteLock/ReadWriteLockDemo$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/ReadWriteLock/ReadWriteLockDemo$2.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/ReadWriteLock/ReadWriteLockDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Semaphore/BoundedHashSet$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Semaphore/BoundedHashSet.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Semaphore/SemaphoreDemo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/ThreadPool/FixedThreadPool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Volatile/Volatile.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Wait/WaitAndNotify.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/deadLock/DeadLock$LeftRightDeadLock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/deadLock/DeadLock.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/intrinsic/SyncClass.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/safePoint/SafePoint.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/stopProblem/StopUnsafe$User.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/stopProblem/StopUnsafe.class" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,7 +55,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TaskConvergence.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TaskConvergence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/barrier/TaskConvergence.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1275">
@@ -21,6 +63,28 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScheduleThreadPoolDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/threadPool/ScheduleThreadPoolDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FixedThreadPool.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/threadPool/FixedThreadPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,16 +156,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="680">
               <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExecutorService.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/devTool/jdk1.8/src.zip!/java/util/concurrent/ExecutorService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="136" column="17" lean-forward="false" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -285,6 +339,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/concurrent/barrier/TaskConvergence.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/oooooor/concurrent/barrier/TaskConvergence.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/barrier/TaskConvergence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/threadPool/ScheduleThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/threadPool/ScheduleThreadPoolDemo.java" />
       </list>
     </option>
   </component>
@@ -680,7 +736,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FixedThreadPool">
+  <component name="RunManager" selected="Application.ScheduleThreadPoolDemo">
     <configuration name="FairLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -708,25 +764,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.company.concurrent.ThreadPool.FixedThreadPool" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="asynchronous" />
-      <envs />
-    </configuration>
-    <configuration name="LockInterruptibly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.ooooor.concurrent.lockInterruptibly.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.company.basic.LockInterruptibly.LockInterruptibly" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -776,6 +813,25 @@
       <module name="asynchronous" />
       <envs />
     </configuration>
+    <configuration name="ScheduleThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ooooor.concurrent.threadPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.ooooor.concurrent.threadPool.ScheduleThreadPoolDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="asynchronous" />
+      <envs />
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -804,19 +860,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LockInterruptibly" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FairLock" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LockSupport" />
-      <item index="3" class="java.lang.String" itemvalue="Application.LockSupportInterrupted" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FixedThreadPool" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FairLock" />
+      <item index="1" class="java.lang.String" itemvalue="Application.LockSupport" />
+      <item index="2" class="java.lang.String" itemvalue="Application.LockSupportInterrupted" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FixedThreadPool" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ScheduleThreadPoolDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FixedThreadPool" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LockSupportInterrupted" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LockSupport" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FairLock" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LockInterruptibly" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ScheduleThreadPoolDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FixedThreadPool" />
+        <item index="2" class="java.lang.String" itemvalue="Application.LockSupportInterrupted" />
+        <item index="3" class="java.lang.String" itemvalue="Application.LockSupport" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FairLock" />
       </list>
     </recent_temporary>
   </component>
@@ -842,7 +898,7 @@
       <workItem from="1531799896369" duration="1138000" />
       <workItem from="1535006769179" duration="13080000" />
       <workItem from="1535072797221" duration="13208000" />
-      <workItem from="1535330773332" duration="3864000" />
+      <workItem from="1535330773332" duration="5021000" />
     </task>
     <task id="LOCAL-00001" summary="add currency">
       <created>1535072579322</created>
@@ -855,7 +911,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61919000" />
+    <option name="totallyTimeSpent" value="63076000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1080" height="1920" extended-state="6" />
@@ -864,12 +920,12 @@
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="RestServices" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2846154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2846154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35185185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -903,14 +959,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ooooor/advanced/reactor/Reactor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="35" column="50" lean-forward="false" selection-start-line="35" selection-start-column="50" selection-end-line="35" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/semaphore/BoundedHashSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -1353,16 +1401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/threadPool/FixedThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ooooor/basic/highCurrencyIssues/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -1588,6 +1626,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1275">
           <caret line="75" column="41" lean-forward="false" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/threadPool/FixedThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/threadPool/ScheduleThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
