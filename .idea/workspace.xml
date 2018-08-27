@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b14d1b0-e62f-4746-b772-de8e9b7f66ae" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/threadPool/FixedThreadPool.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Barrier/TaskConvergence.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/barrier/TaskConvergence.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/CAS/Cas.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/cas/Cas.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/CompletionService/CompletionServiceTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/completionService/CompletionServiceTest.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Condition/ReenterLockCondition.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/condition/ReenterLockCondition.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/FairLock/FairLock.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/lockIssues/fairLock/FairLock.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Join/Join.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/daemon/Daemon.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Latch/TestHarness.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/latch/TestHarness.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/LockInterruptibly/LockInterruptibly.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/lockInterruptibly/LockInterruptibly.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/LockSupport/LockSupport.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/lockSupport/LockSupport.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/LockSupport/LockSupportInterrupted.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/lockSupport/LockSupportInterrupted.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/LongIn32/LongIn32.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/longIn32Bits/LongIn32Bits.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/MultiThread/ArrayList.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/highCurrencyIssues/ArrayList.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/MultiThread/HashMap.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/highCurrencyIssues/HashMap.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/MultiThread/SimpleSynchronizedProblem.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/highCurrencyIssues/SimpleSynchronizedProblem.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/NonBlocking/NonBlocking.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/advanced/nonBlocking/NonBlocking.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Reactor/Reactor.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/advanced/reactor/Reactor.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/ReadWriteLock/ReadWriteLockDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/readWriteLock/ReadWriteLockDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Semaphore/BoundedHashSet.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/semaphore/BoundedHashSet.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Semaphore/SemaphoreDemo.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/concurrent/semaphore/SemaphoreDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Volatile/Volatile.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/volatileDemo/Volatile.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Wait/WaitAndNotify.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/waitAndNotify/WaitAndNotify.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/deadLock/DeadLock.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/lockIssues/deadLock/DeadLock.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/intrinsic/SyncClass.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/intrinsic/SynchronizedDemo.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/safePoint/SafePoint.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/safePoint/SafePoint.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/stopProblem/StopUnsafe.java" afterPath="$PROJECT_DIR$/src/main/java/com/ooooor/basic/stopIssue/StopUnsafe.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/LockSupport/LockSupportInterrupted$ChangeObjectThread.class" afterPath="$PROJECT_DIR$/target/classes/com/company/LockSupport/LockSupportInterrupted$ChangeObjectThread.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/LockSupport/LockSupportInterrupted.class" afterPath="$PROJECT_DIR$/target/classes/com/company/LockSupport/LockSupportInterrupted.class" />
-    </list>
+    <list default="true" id="2b14d1b0-e62f-4746-b772-de8e9b7f66ae" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -872,7 +842,7 @@
       <workItem from="1531799896369" duration="1138000" />
       <workItem from="1535006769179" duration="13080000" />
       <workItem from="1535072797221" duration="13208000" />
-      <workItem from="1535330773332" duration="3266000" />
+      <workItem from="1535330773332" duration="3864000" />
     </task>
     <task id="LOCAL-00001" summary="add currency">
       <created>1535072579322</created>
@@ -885,7 +855,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61321000" />
+    <option name="totallyTimeSpent" value="61919000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1080" height="1920" extended-state="6" />
