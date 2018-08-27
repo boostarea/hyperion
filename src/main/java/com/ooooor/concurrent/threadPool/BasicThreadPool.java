@@ -20,6 +20,9 @@ package com.ooooor.concurrent.threadPool;
  *      4. newScheduledThreadPool():  max=Integer.MAX_VALUE, used DelayedWorkQueue
  *
  *      newWorkStealingPool
+ *
+ * threads = Ncpu * Ucpu * (1 + W/C)
+ *           CPU数  使用率[0,1]   等待时间/计算时间
  */
 public class BasicThreadPool {
 }

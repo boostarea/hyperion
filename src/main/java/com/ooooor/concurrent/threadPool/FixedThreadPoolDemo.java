@@ -18,7 +18,7 @@ import java.util.concurrent.Executors;
  * 1535334633781 Thread Id15
  * 1535334634778 Thread Id11
  */
-public class FixedThreadPool {
+public class FixedThreadPoolDemo {
 
     public static void main(String[] args) {
         ExecutorService executor = Executors.newFixedThreadPool(3);
