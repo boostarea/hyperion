@@ -1,4 +1,4 @@
-# Java concurrency notes
+# Java concurrency notes ![](https://img.shields.io/badge/notes-v1.0.1-519dd9.svg) ![](https://img.shields.io/badge/language-java-orange.svg)
 
 #### Package index:
 
