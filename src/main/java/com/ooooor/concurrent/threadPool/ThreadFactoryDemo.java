@@ -25,6 +25,7 @@ public class ThreadFactoryDemo {
                 new SynchronousQueue<>(),
                 r -> {
                     Thread thread = new Thread(r);
+                    // 守护线程
                     thread.setDaemon(true);
                     System.out.println("create " + thread);
                     return thread;
