@@ -4,7 +4,7 @@
 
 ### 知识储备
 
-1. 由synchronized的独占入门 https://ooooor.github.io/2018/09/01/synchronized%E7%8B%AC%E5%8D%A0%E4%B8%96%E7%95%8C/
+1. 由synchronized的独占入门 https://ooooor.github.io/2018/09/01/synchronized独占世界
 2. Thread的万宗归一
 3. 各类Lock的优化奥秘
 4. ThreadPool公社运动
