@@ -4,11 +4,11 @@
 
 ### 知识储备
 
-1. synchronized的独占入门
+1. 由synchronized的独占入门 https://ooooor.github.io/2018/09/01/synchronized%E7%8B%AC%E5%8D%A0%E4%B8%96%E7%95%8C/
 2. Thread的万宗归一
-3. Lock的优化奥秘
+3. 各类Lock的优化奥秘
 4. ThreadPool公社运动
-5. concurrent包下的轮子
+5. 膜拜Doug Lea，推崇concurrent包下的轮子
 6. volatile及JMM的秘籍
 
 ### 技能升级
