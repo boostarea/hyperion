@@ -6,6 +6,9 @@
 
 1. 由synchronized的独占入门 https://ooooor.github.io/2018/09/01/synchronized独占世界
 2. Thread的万宗归一
+   - Thread的基础储备 https://ooooor.github.io/2018/09/02/Thread%E7%9A%84%E5%9F%BA%E7%A1%80%E5%82%A8%E5%A4%87/
+   - 守护线程与线程组
+   - 线程中基石方法
 3. 各类Lock的优化奥秘
 4. ThreadPool公社运动
 5. 膜拜Doug Lea，推崇concurrent包下的轮子
