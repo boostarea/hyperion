@@ -4,11 +4,11 @@
 
 ### 知识储备
 
-1. 由synchronized的独占入门 http://monsterchen.cn/2018/09/01/synchronized独占世界
+1. 由synchronized的独占入门 https://ooooor.github.io/2018/09/01/synchronized独占世界
 2. Thread的万宗归一
-   - Thread的基础储备 http://monsterchen.cn/2018/09/02/Thread的基础储备/
-   - 守护线程与线程组 http://monsterchen.cn/2018/09/03/守护线程与线程组/
-   - 线程中基石方法
+   - Thread的基础储备 https://ooooor.github.io/2018/09/02/Thread的基础储备/
+   - 守护线程与线程组 https://ooooor.github.io/2018/09/03/守护线程与线程组/
+   - 线程中的基石方法 https://ooooor.github.io/2018/09/04/线程中的基石方法/
 3. 各类Lock的优化奥秘
 4. ThreadPool公社运动
 5. 膜拜Doug Lea，推崇concurrent包下的轮子
