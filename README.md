@@ -9,9 +9,9 @@
    - [Thread的基础储备](https://ooooor.github.io/2018/09/02/Thread的基础储备/)
    - [守护线程与线程组](https://ooooor.github.io/2018/09/03/守护线程与线程组/)
    - 线程中的基石方法 
-     - [sleep睡美人](https://ooooor.github.io/2018/09/05/sleep睡美人/)
-     - [wait公主，与她的notify王子](https://ooooor.github.io/2018/09/08/wait-notify/)
-     - await另一位公主，与signal小伙
+     - [Thread家的sleep睡美人](https://ooooor.github.io/2018/09/05/sleep睡美人/)
+     - [Object家的wait公主，与她的notify王子](https://ooooor.github.io/2018/09/08/wait-notify/)
+     - Thread家的await另一位公主，与signal小伙
      - suspend挂起，如若resume再化作云雨
      - join等待，yield倚你西窗
 3. 各类Lock的优化奥秘
