@@ -11,7 +11,7 @@
    - 控制线程的基石方法 
      - [Thread家的sleep睡美人](https://ooooor.github.io/2018/09/05/sleep睡美人/)
      - [Object家的wait公主，与她的notify王子](https://ooooor.github.io/2018/09/08/wait-notify/)
-     - Thread家的await公主，与signal小伙
+     - [Condition家的await公主，与signal小伙](https://ooooor.github.io/2018/09/08/await-signal/)
      - suspend挂起，如若resume再化作云雨
      - join等待，yield倚你西窗
 3. 各类Lock的优化奥秘
