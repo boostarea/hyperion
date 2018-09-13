@@ -1,4 +1,4 @@
-# Java 并发的的玩法
+# Java 并发的玩法
 
 ![](https://img.shields.io/badge/notes-v1.0.1-519dd9.svg) ![](https://img.shields.io/badge/language-java-orange.svg)
 
