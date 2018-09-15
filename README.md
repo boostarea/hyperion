@@ -13,7 +13,7 @@
      - [Object家的wait公主，与她的notify王子](https://ooooor.github.io/2018/09/08/wait-notify/)
      - [Condition家的await公主，与signal小伙子](https://ooooor.github.io/2018/09/09/await-signal/)
      - [被废弃的Thread兄弟，suspend与resume](https://ooooor.github.io/2018/09/10/suspend-resume/)
-     - join的等待，yield的张望
+     - [join的等待，yield的张望](https://ooooor.github.io/2018/09/15/join-yield/)
 3. 各类Lock的优化奥秘
 4. ThreadPool的公社化运动
 5. Doug Lea创造的轮子世界，推崇concurrent包
