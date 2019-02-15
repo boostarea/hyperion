@@ -21,15 +21,17 @@ public class BadSuspend {
             synchronized (u) {
                 System.out.println("in " + getName());
                 Thread.currentThread().suspend();
+                System.out.println("out " + getName());
             }
         }
     }
 
     public static void main(String[] args) throws InterruptedException {
         t1.start();
-        Thread.sleep(100);
+        Thread.sleep(1000);
         t2.start();
         t1.resume();
+        // Thread.sleep(100);
         t2.resume();
         t1.join();
         t2.join();
