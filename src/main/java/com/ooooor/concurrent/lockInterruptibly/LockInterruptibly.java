@@ -35,7 +35,6 @@ public class LockInterruptibly implements Runnable {
                 }
                 lock1.lockInterruptibly();
             }
-            System.out.println(Thread.currentThread().getName() + " exit");
         } catch (InterruptedException e) {
             e.printStackTrace();
         } finally {
@@ -45,6 +44,7 @@ public class LockInterruptibly implements Runnable {
             if (lock2.isHeldByCurrentThread()) {
                 lock2.unlock();
             }
+            System.out.println(Thread.currentThread().getName() + " exit");
         }
     }
 
