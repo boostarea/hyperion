@@ -1,4 +1,4 @@
-package com.ooooor.concurrent.lockInterruptibly;
+package com.ooooor.concurrent.ReentrantLock;
 
 import java.util.concurrent.locks.ReentrantLock;
 
