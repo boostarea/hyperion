@@ -22,6 +22,7 @@ public class FixedThreadPoolDemo {
 
     public static void main(String[] args) {
         ExecutorService executor = Executors.newFixedThreadPool(3);
+        // ExecutorService executor = Executors.newCachedThreadPool();
         for (int i = 0; i < 10; i++) {
             executor.submit(new Thread(() -> {
                 System.out.println(System.currentTimeMillis() + " Thread Id" + Thread.currentThread().getId());
