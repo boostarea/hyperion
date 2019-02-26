@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/notes-v1.0.1-519dd9.svg) ![](https://img.shields.io/badge/language-java-orange.svg)
 
+<img src="https://raw.githubusercontent.com/wiki/ooooor/siren/concurrent.png" width="420"/>
+
 ### 基础储备
 
 1. [由synchronized的独占入门](https://ooooor.github.io/2018/09/01/synchronized独占世界)
