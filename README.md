@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/notes-v1.0.1-519dd9.svg) ![](https://img.shields.io/badge/language-java-orange.svg)
 
-<img src="https://raw.githubusercontent.com/wiki/ooooor/siren/concurrent.png" width="600"/>
+![](https://raw.githubusercontent.com/wiki/ooooor/siren/concurrent.png
 
 ### 基础储备
 
