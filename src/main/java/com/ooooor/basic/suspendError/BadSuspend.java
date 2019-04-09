@@ -1,4 +1,4 @@
-package com.ooooor.basic.SuspendError;
+package com.ooooor.basic.suspendError;
 
 /**
  * output:
