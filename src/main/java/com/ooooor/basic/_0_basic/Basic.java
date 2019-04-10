@@ -1,4 +1,4 @@
-package com.ooooor.basic.synchronize;
+package com.ooooor.basic._0_basic;
 
 /**
  * @Author ooooor

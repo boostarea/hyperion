@@ -31,7 +31,7 @@ public class BadSuspend {
         Thread.sleep(1000);
         t2.start();
         t1.resume();
-        // Thread.sleep(100);
+        // Thread._2_sleep(100);
         t2.resume();
         t1.join();
         t2.join();

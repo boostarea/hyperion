@@ -1,7 +1,6 @@
-package com.ooooor.basic.synchronize;
+package com.ooooor.basic._1_synchronize;
 
 /**
- *
  * 一个对象只有一把锁，当一个线程获取了该对象的锁之后，其他线程无法获取该对象的锁，所以无法访问该对象的其他synchronized实例方法,但是其他线程还是可以访问该实例对象的其他非synchronized方法
  * synchronized关键字不能继承
  *
@@ -9,7 +8,6 @@ package com.ooooor.basic.synchronize;
  *
  * synchronized方法(隐式) 并不是由 monitorenter 和 monitorexit 指令来实现同步的，而是由方法调用指令读取运行时常量池中方法表结构(method_info Structure) 中的 ACC_SYNCHRONIZED 标志来隐式实现的
  * 同步语句块(显式) 的实现使用的是monitorenter 和 monitorexit 指令
- *
  *
  *对象: 对象头/实例变量/填充数据
  */

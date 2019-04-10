@@ -33,7 +33,7 @@ public class ThreadFactoryDemo {
         for (int i=0; i<5; i++) {
             executorService.submit(runnable);
         }
-        // Thread.sleep(2000);
+        // Thread._2_sleep(2000);
     }
 
 }
