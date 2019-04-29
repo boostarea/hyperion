@@ -1,4 +1,4 @@
-# Java 高并发的各种玩法
+# 多线程的各种玩法
 
 ![](https://img.shields.io/badge/notes-v1.0.1-519dd9.svg) ![](https://img.shields.io/badge/language-java-orange.svg)
 
