@@ -1,7 +1,7 @@
-package com.ooooor.basic.yield;
+package com.ooooor.basic._5_yield;
 
 /**
- * @description:
+ * @description: 谦让
  * @author: chenr
  * @date: 19-2-15
  */
@@ -15,21 +15,14 @@ public class YieldDemo {
                 if ((i % 5) == 0) {
                     System.out.println(Thread.currentThread().getName() + " yielding control...");
 
-            /* causes the currently executing thread object to temporarily
-            pause and allow other threads to execute */
+                    /* causes the currently executing thread object to temporarily pause and allow other threads to execute */
                     Thread.yield();
                 }
             }
-
             System.out.println(Thread.currentThread().getName() + " has finished executing.");
         };
-
-        Thread t1 = new Thread(runnable, "t1");
-        Thread t2 = new Thread(runnable, "t2");
-        Thread t3 = new Thread(runnable, "t3");
-
-        t1.start();
-        t2.start();
-        t3.start();
+        new Thread(runnable, "t1").start();
+        new Thread(runnable, "t2").start();
+        new Thread(runnable, "t3").start();
     }
 }

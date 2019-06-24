@@ -1,7 +1,7 @@
-package com.ooooor.basic.threadGroup;
+package com.ooooor.basic._6_threadGroup;
 
 /**
- * @description:
+ * @description: 线程组，便于管理
  * @author: chenr
  * @date: 19-2-15
  */

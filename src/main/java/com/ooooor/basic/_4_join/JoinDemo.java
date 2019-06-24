@@ -1,7 +1,7 @@
-package com.ooooor.basic.join;
+package com.ooooor.basic._4_join;
 
 /**
- * @description:
+ * @description: _4_join()等待完成，可设置最长等待时间
  * @author: chenr
  * @date: 19-2-15
  */
@@ -14,8 +14,8 @@ public class JoinDemo {
             for(;i<1000000;i++);
         });
         thread.start();
-        // thread.join(1);
-        thread.join();
+        thread.join(1);
+        // thread._4_join();
         System.out.println(i);
     }
 

@@ -1,11 +1,13 @@
 package com.ooooor.basic.suspendError;
 
 /**
+ * Deprecated
  * output:
  * in t1
  * in t2
  *
  * 程序并不会退出，t2的resume在suspend之前被执行，t2被永久挂起
+ * 可用LockSupport，防止先后执行问题
  */
 public class BadSuspend {
     public static Object u = new Object();
@@ -36,5 +38,4 @@ public class BadSuspend {
         t1.join();
         t2.join();
     }
-
 }
